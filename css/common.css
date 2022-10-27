@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: #8D33FF;
+    height: 15rem;
+    margin: 0rem;
+    position: fixed;
+    width: -webkit-fill-available;
+    
+}
+header img{
+    float: right;
+    width: 7rem;
+    padding: 1rem;
+    margin: 0rem;
+}
+nav{
+    
+}
+nav ul{
+    list-style: none;
+    background-color: #F0A52B;
+    height: 5rem;
+    padding: 1rem;
+}
+nav ul li{
+    display: inline;
+}
+h1{
+    margin: 0rem;
+    padding: 3rem;
+    display: inline-block;
+}
+img{
+    margin: 2rem;
+}
+main{
+    
+}
