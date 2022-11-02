@@ -1,0 +1,15 @@
+main {
+  margin-top: 13rem;
+}
+article {
+  float: left;
+  width: 50%;
+  margin-left: 3rem;
+}
+aside {
+  width: 40%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+}
+

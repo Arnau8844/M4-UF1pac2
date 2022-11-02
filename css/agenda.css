@@ -1,0 +1,20 @@
+main {
+    margin-top: 12rem;
+}
+table{
+    margin: 5rem;
+    border: solid #594545 ;
+    border-style: double;
+
+}
+td{
+    margin: 5px;
+    border: solid #594545 ;
+}
+th{
+    margin: 5px;
+    border: solid #594545 ;
+}
+table p{
+    padding: 10px;
+}

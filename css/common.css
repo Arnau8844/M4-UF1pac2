@@ -2,7 +2,10 @@
   padding: 0px;
   margin: 0px;
 }
-
+main{
+  margin-left: 20px;
+  margin-right: 20px;
+}
 header {
   height: 15rem;
   margin: 0rem;
@@ -42,7 +45,7 @@ nav ul li a:hover{
     background-color: #594545;
 }
 h1 {
-    color: #FFF8EA;
+  color: #FFF8EA;
   margin: 0rem;
   padding: 3rem;
   background-color: #594545;
@@ -53,7 +56,8 @@ img {
 }
 main {
     
-    margin-top: 10rem;
+    margin-top: 13rem;
+    margin-bottom: 13rem;
 }
 
 p{
@@ -61,8 +65,37 @@ p{
 }
 h2{
     color: #9E7676;
+    margin: 10px;
 }
 
 body{
     background-color: #FFF8EA;
+}
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  background-color: #594545;
+}
+footer h2{
+  margin: 10px;
+  color: #FFF8EA;
+}
+footer ul{
+  list-style: none;
+
+  
+}
+footer ul li{
+  display: inline;
+  
+}
+footer ul a{
+  margin: 5px;
+  color: hotpink;
+}
+footer ul p{
+  margin: 5px;
+  color: hotpink;
+  font-size: 30px;
 }
